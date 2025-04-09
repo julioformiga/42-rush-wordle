@@ -1,5 +1,7 @@
 # Wordle in Rust
 
+![42-rush-wordle](https://github.com/user-attachments/assets/6bb70cf5-d7b7-4dbf-9a87-21e69ab1c0ef)
+
 ## Descrizione
 Questo è un progetto di test sviluppato come parte di "RUSH", uno dei progetti proposti dalla scuola 42. È stato creato esclusivamente per scopi didattici. L'obiettivo principale è quello di esercitarsi nella risoluzione di problemi attraverso l'implementazione del gioco Wordle utilizzando il linguaggio di programmazione Rust con l'assistenza dell'intelligenza artificiale.
 
